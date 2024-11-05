@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 06f5e6c50b9a04046bc47253c866c6e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathSprite: {fileID: 21300000, guid: 8e3a16e558787e24d8b47382cb76665a, type: 3}
+  - aliveSprite: {fileID: 21300000, guid: 9cee29fe20f4a0f4481edc03f6a50c92, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
